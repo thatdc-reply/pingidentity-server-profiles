@@ -1,0 +1,12 @@
+ID=00443354
+Product=PingAccess
+Version=7.2
+EnforcementType=3
+Tier=Free
+IssueDate=2022-12-29
+ExpirationDate=2023-06-29
+DeploymentMethod=Docker
+Organization=Blue Reply
+Name=PingAccess-7.2-Production
+SignCode=FF03
+Signature=302D02140562D842B76AC1DB1F2F76EBE8C8D0EA1203138102150094C4383566FFFA7D64D6183D72DD54B810FA5309

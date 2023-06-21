@@ -1,0 +1,14 @@
+ID=00442244
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=11.2
+EnforcementType=3
+Tier=Free
+IssueDate=2022-12-23
+ExpirationDate=2023-06-23
+DeploymentMethod=Docker
+Organization=Blue Reply
+SignCode=FF0F
+Signature=302D02147642AF0F0A811B895E7A683902BB5FC33AE3C8560215008485CF1AC46D415554B36C9EC28675E1266848EC
